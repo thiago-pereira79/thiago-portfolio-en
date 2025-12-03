@@ -1,7 +1,7 @@
 # 🌐 Portfolio - Thiago Pereira
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-![Status](https://img.shields.io/badge/Status-In%20development-blue)
+![Status](https://img.shields.io/badge/Status-Completed-blue)
 ![Built with](https://img.shields.io/badge/Built%20with-React%20|%20TypeScript%20|%20Vite-orange)
 
 ---
@@ -13,7 +13,7 @@ The goal of this project is to present a clean, organized, and responsive interf
 ---
 
 🔗 **Access the online portfolio:**  
-_coming soon_
+https://thiago-portfolio-en.vercel.app/
 
 ---
 
